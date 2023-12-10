@@ -109,8 +109,8 @@
   #button {
     position: relative;
     width: 100%;
-    border: 2px solid #e94e1a;
-    background-color: #e94e1a;
+    border: 2px solid #000630;
+    background-color: #000630;
     height: 40px;
     color: white;
     font-size: .8em;
@@ -136,10 +136,7 @@
     transition-duration: .5s;
   }
   
-  #button:hover::after {
-    transform: translateX(600px);
-    transition-duration: .5s;
-  }
+ 
   
   .signupContainer {
     margin: 0;
